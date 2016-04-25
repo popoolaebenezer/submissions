@@ -1,6 +1,9 @@
-Note 1: We assume "virtualenv" is already installed, if it is not installed, please do and ensure you can create a virtual environment. 
+Note 1: We assume "virtualenv" is already installed, if it is not installed, please do and ensure you can create a virtual environment.
+
 Note 2: Some files will be installed in the virtual environment we create henceforth. Some packages needed will be installed in it.
+
 Note 3: It is assumed git is installed
+
 Note 4: Internet is required for the installations
 
 Proceed to the following:
