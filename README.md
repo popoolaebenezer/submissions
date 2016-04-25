@@ -16,7 +16,7 @@ Proceed to the following:
 
 3. Change directory the folder called "submissions"
 
-cd submissions
+  cd submissions
 
 4. Run the command below to install necessary packages
 
