@@ -3,9 +3,9 @@ cd ~
 mkdir popoola_ebenezer
 cd popoola_ebenezer
 
-VENV=~/popoola_ebenezer/env
-export VENV
-pyvenv VENV
+export VENV=~/popoola_ebenezer/env
+
+virtualenv VENV
 
 wget https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py -O - | VENV/bin/python
 
